@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>test on Simply Happy Life</title>
-    <link>https://Simplyhappylife.github.io/tags/test/</link>
-    <description>Recent content in test on Simply Happy Life</description>
+    <title>test on Simple Happy Life</title>
+    <link>https://Simplehappylife.github.io/tags/test/</link>
+    <description>Recent content in test on Simple Happy Life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Wed, 27 May 2020 21:20:00 +0800</lastBuildDate>
     
-	<atom:link href="https://Simplyhappylife.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://Simplehappylife.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>這是文章標題</title>
-      <link>https://Simplyhappylife.github.io/blog/test/</link>
+      <link>https://Simplehappylife.github.io/blog/test/</link>
       <pubDate>Wed, 27 May 2020 21:20:00 +0800</pubDate>
       
-      <guid>https://Simplyhappylife.github.io/blog/test/</guid>
+      <guid>https://Simplehappylife.github.io/blog/test/</guid>
       <description>Hello World
 I&amp;rsquo;m Paul
 一級標題 二級標題 六級標題 我是小恩，我喜歡學習

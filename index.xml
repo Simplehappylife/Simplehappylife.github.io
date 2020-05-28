@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Simply Happy Life</title>
-    <link>https://Simplyhappylife.github.io/</link>
-    <description>Recent content on Simply Happy Life</description>
+    <title>Simple Happy Life</title>
+    <link>https://Simplehappylife.github.io/</link>
+    <description>Recent content on Simple Happy Life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Wed, 27 May 2020 21:20:00 +0800</lastBuildDate>
     
-	<atom:link href="https://Simplyhappylife.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://Simplehappylife.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>這是文章標題</title>
-      <link>https://Simplyhappylife.github.io/blog/test/</link>
+      <link>https://Simplehappylife.github.io/blog/test/</link>
       <pubDate>Wed, 27 May 2020 21:20:00 +0800</pubDate>
       
-      <guid>https://Simplyhappylife.github.io/blog/test/</guid>
+      <guid>https://Simplehappylife.github.io/blog/test/</guid>
       <description>Hello World
 I&amp;rsquo;m Paul
 一級標題 二級標題 六級標題 我是小恩，我喜歡學習
@@ -25,10 +25,10 @@ I&amp;rsquo;m Paul
     
     <item>
       <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://Simplyhappylife.github.io/blog/post-13/</link>
+      <link>https://Simplehappylife.github.io/blog/post-13/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://Simplyhappylife.github.io/blog/post-13/</guid>
+      <guid>https://Simplehappylife.github.io/blog/post-13/</guid>
       <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
     </item>
     
