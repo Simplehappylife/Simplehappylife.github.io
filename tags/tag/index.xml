@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tag on Simply Happy Life</title>
+    <link>https://Simplyhappylife.github.io/tags/tag/</link>
+    <description>Recent content in tag on Simply Happy Life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Wed, 27 May 2020 21:20:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://Simplyhappylife.github.io/tags/tag/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>這是文章標題</title>
+      <link>https://Simplyhappylife.github.io/blog/test/</link>
+      <pubDate>Wed, 27 May 2020 21:20:00 +0800</pubDate>
+      
+      <guid>https://Simplyhappylife.github.io/blog/test/</guid>
+      <description>Hello World
+I&amp;rsquo;m Paul
+一級標題 二級標題 六級標題 我是小恩，我喜歡學習
+ 有序序列1 有序序列2   無序序列1  內縮無序序列2  內縮無序序列3       引用1</description>
+    </item>
+    
+  </channel>
+</rss>
