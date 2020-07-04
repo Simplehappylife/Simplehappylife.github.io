@@ -2,13 +2,13 @@
 <html lang="zh-tw">
 <head>
   <meta charset="UTF-8">
-  <title>404 Page not found - Simple．Happy．Life</title>
+  <title>hello hugo - Simple．Happy．Life</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3, minimum-scale=1">
   
-  <meta name="description" content="404 Page not found">
+  <meta name="description" content="Hello Hugo Balalala&hellip; Balalala&hellip; Balalala&hellip;">
   
-  <meta itemprop="name" content="404 Page not found - Simple．Happy．Life">
-  <meta itemprop="description" content="404 Page not found">
+  <meta itemprop="name" content="hello hugo - Simple．Happy．Life">
+  <meta itemprop="description" content="Hello Hugo Balalala&hellip; Balalala&hellip; Balalala&hellip;">
   <meta itemprop="image" content="https://Simplehappylife.github.ioimg/author.jpg">
   
   
@@ -60,11 +60,74 @@
 
   </header>
   <div id="container">
-    <div id="main">
-      
-      您訪問的頁面不存在喔!
-      
+    <div id="main" class="post" itemscope itemprop="blogPost">
+	<article itemprop="articleBody">
+    <header class="article-info clearfix">
+  <h1 itemprop="name">
+      <a href="https://Simplehappylife.github.io/post/hello-hugo/" title="hello hugo" itemprop="url">hello hugo</a>
+  </h1>
+  <p class="article-author">By
+    
+      <a href="your-home-page" title="">you</a>
+    
+  </p>
+  <p class="article-time">
+    <time datetime="2016-02-20 15:34:05 &#43;0800 CST" itemprop="datePublished">2016年02月20日</time>
+  </p>
+</header>
+
+	<div class="article-content">
+    
+		<div class="toc-article">
+			<strong class="toc-title">文章目錄</strong>
+      <nav id="TableOfContents"></nav>
+		</div>
+    
+    <h1 id="hello-hugo">Hello Hugo</h1>
+<p>Balalala&hellip;</p>
+<p>Balalala&hellip;</p>
+<p>Balalala&hellip;</p>
+
+    
+	</div>
+  <footer class="article-footer clearfix">
+  
+
+<div class="article-tags">
+  <span></span>
+  
+  <a href="https://Simplehappylife.github.iotags/test">Test</a>
+  
+  <a href="https://Simplehappylife.github.iotags/bar">Bar</a>
+  
+</div>
+
+
+
+
+
+<div class="article-categories">
+  <span></span>
+  
+  <a class="article-category-link" href="https://Simplehappylife.github.iocategories/%E6%80%9D%E8%80%83%E6%84%9F%E6%82%9F">思考感悟</a>
+  
+</div>
+
+
+
+  <div class="article-share" id="share">
+    <div data-url="https://Simplehappylife.github.io/post/hello-hugo/" data-title="hello hugo" data-tsina="" class="share clearfix">
     </div>
+  </div>
+</footer>
+
+	</article>
+  
+
+
+
+</div>
+
     <div class="openaside"><a class="navbutton" href="#" title="顯示側邊欄"></a></div>
 <div id="asidepart">
 <div class="closeaside"><a class="closebutton" href="#" title="隱藏側邊欄"></a></div>
@@ -224,6 +287,38 @@ $(document).ready(function(){
 
 <script type="text/javascript">
 $(document).ready(function(){
+  var ai = $('.article-content>iframe'),
+      ae = $('.article-content>embed'),
+      t  = $('#toc'),
+      h  = $('article h2')
+      ah = $('article h2'),
+      ta = $('#toc.toc-aside'),
+      o  = $('.openaside'),
+      c  = $('.closeaside');
+  if(ai.length>0){
+    ai.wrap('<div class="video-container" />');
+  };
+  if(ae.length>0){
+   ae.wrap('<div class="video-container" />');
+  };
+  if(ah.length==0){
+    t.css('display','none');
+  }else{
+    c.click(function(){
+      ta.css('display', 'block').addClass('fadeIn');
+    });
+    o.click(function(){
+      ta.css('display', 'none');
+    });
+    $(window).scroll(function(){
+      ta.css("top",Math.max(140,320-$(this).scrollTop()));
+    });
+  };
+});
+</script>
+
+<script type="text/javascript">
+$(document).ready(function(){
   var $this = $('.share'),
       url = $this.attr('data-url'),
       encodedUrl = encodeURIComponent(url),
@@ -250,6 +345,27 @@ $(document).ready(function(){
 });
 </script>
 
+
+<link rel="stylesheet" href="https://Simplehappylife.github.iofancybox/jquery.fancybox.css" media="screen" type="text/css">
+<script src="https://Simplehappylife.github.iofancybox/jquery.fancybox.pack.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+  $('.article-content').each(function(i){
+    $(this).find('img').each(function(){
+      if ($(this).parent().hasClass('fancybox')) return;
+      var alt = this.alt;
+      if (alt) $(this).after('<span class="caption">' + alt + '</span>');
+      $(this).wrap('<a href="' + this.src + '" title="' + alt + '" class="fancybox"></a>');
+    });
+    $(this).find('.fancybox').each(function(){
+      $(this).attr('rel', 'article' + i);
+    });
+  });
+  if($.fancybox){
+    $('.fancybox').fancybox();
+  }
+});
+</script>
 
 
 
