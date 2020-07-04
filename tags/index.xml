@@ -1,76 +1,67 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Simple Happy Life</title>
-    <link>https://Simplehappylife.github.io/tags/</link>
+    <link>https://simplehappylife.github.io/tags/</link>
     <description>Recent content in Tags on Simple Happy Life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 27 May 2020 21:20:00 +0800</lastBuildDate>
+    <copyright>Copyright © 2008–2018, @JeffProd</copyright>
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://Simplehappylife.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://simplehappylife.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>tag</title>
-      <link>https://Simplehappylife.github.io/tags/tag/</link>
-      <pubDate>Wed, 27 May 2020 21:20:00 +0800</pubDate>
+      <title>development</title>
+      <link>https://simplehappylife.github.io/tags/development/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://Simplehappylife.github.io/tags/tag/</guid>
+      <guid>https://simplehappylife.github.io/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>test</title>
-      <link>https://Simplehappylife.github.io/tags/test/</link>
-      <pubDate>Wed, 27 May 2020 21:20:00 +0800</pubDate>
+      <title>go</title>
+      <link>https://simplehappylife.github.io/tags/go/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://Simplehappylife.github.io/tags/test/</guid>
+      <guid>https://simplehappylife.github.io/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Game</title>
-      <link>https://Simplehappylife.github.io/tags/game/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>golang</title>
+      <link>https://simplehappylife.github.io/tags/golang/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://Simplehappylife.github.io/tags/game/</guid>
+      <guid>https://simplehappylife.github.io/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>HTML</title>
-      <link>https://Simplehappylife.github.io/tags/html/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>hugo</title>
+      <link>https://simplehappylife.github.io/tags/hugo/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://Simplehappylife.github.io/tags/html/</guid>
+      <guid>https://simplehappylife.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>New</title>
-      <link>https://Simplehappylife.github.io/tags/new/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>templates</title>
+      <link>https://simplehappylife.github.io/tags/templates/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://Simplehappylife.github.io/tags/new/</guid>
+      <guid>https://simplehappylife.github.io/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Photos</title>
-      <link>https://Simplehappylife.github.io/tags/photos/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>themes</title>
+      <link>https://simplehappylife.github.io/tags/themes/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://Simplehappylife.github.io/tags/photos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://Simplehappylife.github.io/tags/python/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://Simplehappylife.github.io/tags/python/</guid>
+      <guid>https://simplehappylife.github.io/tags/themes/</guid>
       <description></description>
     </item>
     

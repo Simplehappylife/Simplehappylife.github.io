@@ -3,93 +3,83 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://Simplehappylife.github.io/blog/</loc>
-    <lastmod>2020-05-27T21:20:00+08:00</lastmod>
+    <loc>https://simplehappylife.github.io/post/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Simplehappylife.github.io/categories/</loc>
-    <lastmod>2020-05-27T21:20:00+08:00</lastmod>
+    <loc>https://simplehappylife.github.io/post/migrate-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Simplehappylife.github.io/</loc>
-    <lastmod>2020-05-27T21:20:00+08:00</lastmod>
+    <loc>https://simplehappylife.github.io/archives/2014/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Simplehappylife.github.io/tags/tag/</loc>
-    <lastmod>2020-05-27T21:20:00+08:00</lastmod>
+    <loc>https://simplehappylife.github.io/archives/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Simplehappylife.github.io/tags/</loc>
-    <lastmod>2020-05-27T21:20:00+08:00</lastmod>
+    <loc>https://simplehappylife.github.io/post/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Simplehappylife.github.io/tags/test/</loc>
-    <lastmod>2020-05-27T21:20:00+08:00</lastmod>
+    <loc>https://simplehappylife.github.io/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Simplehappylife.github.io/categories/%E5%BF%83%E5%BE%97/</loc>
-    <lastmod>2020-05-27T21:20:00+08:00</lastmod>
+    <loc>https://simplehappylife.github.io/about/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Simplehappylife.github.io/blog/test/</loc>
-    <lastmod>2020-05-27T21:20:00+08:00</lastmod>
+    <loc>https://simplehappylife.github.io/post/goisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Simplehappylife.github.io/about/</loc>
-    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
+    <loc>https://simplehappylife.github.io/tags/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Simplehappylife.github.io/contact/</loc>
-    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
+    <loc>https://simplehappylife.github.io/post/hugoisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Simplehappylife.github.io/search/</loc>
-    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
+    <loc>https://simplehappylife.github.io/tags/go/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Simplehappylife.github.io/tags/game/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+    <loc>https://simplehappylife.github.io/tags/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Simplehappylife.github.io/categories/go-language/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+    <loc>https://simplehappylife.github.io/tags/hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Simplehappylife.github.io/blog/post-13/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+    <loc>https://simplehappylife.github.io/tags/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Simplehappylife.github.io/tags/html/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+    <loc>https://simplehappylife.github.io/tags/templates/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Simplehappylife.github.io/tags/new/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Simplehappylife.github.io/tags/photos/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Simplehappylife.github.io/tags/python/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+    <loc>https://simplehappylife.github.io/tags/themes/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
