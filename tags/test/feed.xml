@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Test on Simple．Happy．Life</title>
-    <link>https://simplehappylife.github.io/tags/test/</link>
-    <description>Recent content in Test on Simple．Happy．Life</description>
+    <title>Test on Simple Happy Life</title>
+    <link>https://Simplehappylife.github.io/tags/test/</link>
+    <description>Recent content in Test on Simple Happy Life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sat, 20 Feb 2016 15:34:05 +0800</lastBuildDate>
     
-	<atom:link href="https://simplehappylife.github.io/tags/test/feed.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://Simplehappylife.github.io/tags/test/feed.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>hello hugo</title>
-      <link>https://simplehappylife.github.io/post/hello-hugo/</link>
+      <link>https://Simplehappylife.github.io/post/hello-hugo/</link>
       <pubDate>Sat, 20 Feb 2016 15:34:05 +0800</pubDate>
       
-      <guid>https://simplehappylife.github.io/post/hello-hugo/</guid>
+      <guid>https://Simplehappylife.github.io/post/hello-hugo/</guid>
       <description>Hello Hugo Balalala&amp;hellip; Balalala&amp;hellip; Balalala&amp;hellip;</description>
     </item>
     
