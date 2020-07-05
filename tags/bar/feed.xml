@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bar on Simple Happy Life</title>
-    <link>https://Simplehappylife.github.io/tags/bar/</link>
+    <link>https://simplehappylife.github.io/tags/bar/</link>
     <description>Recent content in Bar on Simple Happy Life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sun, 20 Mar 2016 12:13:19 +0800</lastBuildDate>
     
-	<atom:link href="https://Simplehappylife.github.io/tags/bar/feed.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://simplehappylife.github.io/tags/bar/feed.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>first</title>
-      <link>https://Simplehappylife.github.io/post/first/</link>
+      <link>https://simplehappylife.github.io/post/first/</link>
       <pubDate>Sun, 20 Mar 2016 12:13:19 +0800</pubDate>
       
-      <guid>https://Simplehappylife.github.io/post/first/</guid>
+      <guid>https://simplehappylife.github.io/post/first/</guid>
       <description>主题概况 Balalalalala&amp;hellip; Balalalalala&amp;hellip; 安装指南 aaaaaaa bbbbbbb ccccccc 安装 bold 启用 print(&#39;hello world!&#39;) 更新 Blockquotes are very handy in email to emulate reply text. This line is part of the same quote. 配置指南 Tables Are Cool col 3 is right-aligned $1600 col 2 is centered $12 zebra stripes are neat $1 属性 说明 First ordered list item</description>
     </item>
     
     <item>
       <title>hello hugo</title>
-      <link>https://Simplehappylife.github.io/post/hello-hugo/</link>
+      <link>https://simplehappylife.github.io/post/hello-hugo/</link>
       <pubDate>Sat, 20 Feb 2016 15:34:05 +0800</pubDate>
       
-      <guid>https://Simplehappylife.github.io/post/hello-hugo/</guid>
+      <guid>https://simplehappylife.github.io/post/hello-hugo/</guid>
       <description>Hello Hugo Balalala&amp;hellip; Balalala&amp;hellip; Balalala&amp;hellip;</description>
     </item>
     
