@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1">
+    <title>Markdown Syntax Guide - Simple Happy Life</title>
+
+    <style type="text/css">
+        img.wp-smiley,
+        img.emoji {
+            display: inline !important;
+            border: none !important;
+            box-shadow: none !important;
+            height: 1em !important;
+            width: 1em !important;
+            margin: 0 .07em !important;
+            vertical-align: -0.1em !important;
+            background: none !important;
+            padding: 0 !important;
+        }
+    </style>
+    <link rel='stylesheet' href='https://simplehappylife.github.io/css/style.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='https://simplehappylife.github.io/css/custom.css' type='text/css' media='all' />
+        
+</head>
+    <body class="two-column">
+        <a href="#content">Skip to content</a>
+<div class="wrapper">
+    <header role="banner" class="banner widgets columns-1">
+        <a href="/" rel="home">
+            <h1 class="site">Simple Happy Life</h1>
+            <p></p>
+        </a>
+        <nav role="navigation" aria-label="Primary Navigation">
+
+            <ul class="menu">
+                <li class="menu-item "><a class="menu__link" href="/about/">ABOUT</a></li>
+            </ul>
+            <select onChange="location.href=value;">
+                <option value="/about/" class="menu-item menu-item-type-custom menu-item-object-custom" >ABOUT</option>
+            </select>
+        </nav>
+    </header>
+
+    <br>
+    <div style="width: 100%; max-height: 100px; text-align: center;">
+       
+</div>
+
+    <div class="breadcrumbs">
+        
+    </div>
+        <div id="content" class="content">
+
+<main role="main">
+    <article role="article" class="post type-post format-standard hentry">
+        <header class="post-header">
+            <h1>Markdown Syntax Guide</h1>
+            <div class="post-details">
+                <a rel="bookmark">
+                    <time datetime="2019-03-11T311:120:06">2019-03-11</time>
+                </a>
+				
+<span style="float: right;">
+    <div id="fb-root" style="height: 100%;"></div>
+    
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
+    
+    <div class="fb-share-button" data-href="https://simplehappylife.github.io/markdown-syntax-guide/" data-layout="button_count" data-size="small">
+        <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fsimplehappylife.github.io%2fmarkdown-syntax-guide%2f" class="fb-xfbml-parse-ignore">Share</a>
+    </div>
+    &nbsp;
+    <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Markdown Syntax Guide" data-url="https://simplehappylife.github.io/markdown-syntax-guide/" data-show-count="false">Tweet</a>
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    &nbsp;
+    
+</span>
+
+            </div>
+        </header>
+
+        <div class="post-content">
+            <p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.</p>
+<h2 id="headings">Headings</h2>
+<p>The following HTML <code>&lt;h1&gt;</code>—<code>&lt;h6&gt;</code> elements represent six levels of section headings. <code>&lt;h1&gt;</code> is the highest section level while <code>&lt;h6&gt;</code> is the lowest.</p>
+<h1 id="h1">H1</h1>
+<h2 id="h2">H2</h2>
+<h3 id="h3">H3</h3>
+<h4 id="h4">H4</h4>
+<h5 id="h5">H5</h5>
+<h6 id="h6">H6</h6>
+<h2 id="paragraph">Paragraph</h2>
+<p>Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.</p>
+<p>Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.</p>
+<h2 id="blockquotes">Blockquotes</h2>
+<p>The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a <code>footer</code> or <code>cite</code> element, and optionally with in-line changes such as annotations and abbreviations.</p>
+<h4 id="blockquote-without-attribution">Blockquote without attribution</h4>
+<blockquote>
+<p>Tiam, ad mint andaepu dandae nostion secatur sequo quae.
+<strong>Note</strong> that you can use <em>Markdown syntax</em> within a blockquote.</p>
+</blockquote>
+<h4 id="blockquote-with-attribution">Blockquote with attribution</h4>
+<blockquote>
+<p>Don&rsquo;t communicate by sharing memory, share memory by communicating.<!-- raw HTML omitted -->
+— <!-- raw HTML omitted -->Rob Pike<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup><!-- raw HTML omitted --></p>
+</blockquote>
+<h2 id="tables">Tables</h2>
+<p>Tables aren&rsquo;t part of the core Markdown spec, but Hugo supports supports them out-of-the-box.</p>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Age</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Bob</td>
+<td>27</td>
+</tr>
+<tr>
+<td>Alice</td>
+<td>23</td>
+</tr>
+</tbody>
+</table>
+<h4 id="inline-markdown-within-tables">Inline Markdown within tables</h4>
+<table>
+<thead>
+<tr>
+<th>Inline   </th>
+<th>Markdown   </th>
+<th>In   </th>
+<th>Table</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>italics</em></td>
+<td><strong>bold</strong></td>
+<td><del>strikethrough</del>   </td>
+<td><code>code</code></td>
+</tr>
+</tbody>
+</table>
+<h2 id="code-blocks">Code Blocks</h2>
+<h4 id="code-block-with-backticks">Code block with backticks</h4>
+<pre><code>html
+&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+  &lt;meta charset=&quot;UTF-8&quot;&gt;
+  &lt;title&gt;Example HTML5 Document&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+  &lt;p&gt;Test&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</code></pre><h4 id="code-block-indented-with-four-spaces">Code block indented with four spaces</h4>
+<pre><code>&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+  &lt;meta charset=&quot;UTF-8&quot;&gt;
+  &lt;title&gt;Example HTML5 Document&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+  &lt;p&gt;Test&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</code></pre>
+<h4 id="code-block-with-hugos-internal-highlight-shortcode">Code block with Hugo&rsquo;s internal highlight shortcode</h4>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html"><span style="color:#75715e">&lt;!DOCTYPE html&gt;</span>
+&lt;<span style="color:#f92672">html</span> <span style="color:#a6e22e">lang</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;en&#34;</span>&gt;
+&lt;<span style="color:#f92672">head</span>&gt;
+  &lt;<span style="color:#f92672">meta</span> <span style="color:#a6e22e">charset</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;UTF-8&#34;</span>&gt;
+  &lt;<span style="color:#f92672">title</span>&gt;Example HTML5 Document&lt;/<span style="color:#f92672">title</span>&gt;
+&lt;/<span style="color:#f92672">head</span>&gt;
+&lt;<span style="color:#f92672">body</span>&gt;
+  &lt;<span style="color:#f92672">p</span>&gt;Test&lt;/<span style="color:#f92672">p</span>&gt;
+&lt;/<span style="color:#f92672">body</span>&gt;
+&lt;/<span style="color:#f92672">html</span>&gt;</code></pre></div>
+<h2 id="list-types">List Types</h2>
+<h4 id="ordered-list">Ordered List</h4>
+<ol>
+<li>First item</li>
+<li>Second item</li>
+<li>Third item</li>
+</ol>
+<h4 id="unordered-list">Unordered List</h4>
+<ul>
+<li>List item</li>
+<li>Another item</li>
+<li>And another item</li>
+</ul>
+<h4 id="nested-list">Nested list</h4>
+<ul>
+<li>Item</li>
+</ul>
+<ol>
+<li>First Sub-item</li>
+<li>Second Sub-item</li>
+</ol>
+<h2 id="other-elements--abbr-sub-sup-kbd-mark">Other Elements — abbr, sub, sup, kbd, mark</h2>
+<p><!-- raw HTML omitted -->GIF<!-- raw HTML omitted --> is a bitmap image format.</p>
+<p>H<!-- raw HTML omitted -->2<!-- raw HTML omitted -->O</p>
+<p>X<!-- raw HTML omitted -->n<!-- raw HTML omitted --> + Y<!-- raw HTML omitted -->n<!-- raw HTML omitted --> = Z<!-- raw HTML omitted -->n<!-- raw HTML omitted --></p>
+<p>Press <!-- raw HTML omitted --><!-- raw HTML omitted -->CTRL<!-- raw HTML omitted -->+<!-- raw HTML omitted -->ALT<!-- raw HTML omitted -->+<!-- raw HTML omitted -->Delete<!-- raw HTML omitted --><!-- raw HTML omitted --> to end the session.</p>
+<p>Most <!-- raw HTML omitted -->salamanders<!-- raw HTML omitted --> are nocturnal, and hunt for insects, worms, and other small creatures.</p>
+<section class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1" role="doc-endnote">
+<p>The above quote is excerpted from Rob Pike&rsquo;s <a href="https://www.youtube.com/watch?v=PAAkCSZUG1c">talk</a> during Gopherfest, November 18, 2015. <a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</section>
+        </div>
+
+
+
+        <footer class="post-footer">
+                
+                
+                
+                <span class="post-categories">
+                        <a href="https://simplehappylife.github.io/categories/syntax/">syntax</a>&emsp;
+                        
+                        <a href="https://simplehappylife.github.io/categories/themes/">themes</a>&emsp;
+                        
+                </span>
+                
+        
+                
+                
+                
+                <span class="post-tags">
+                        <a href="https://simplehappylife.github.io/tags/css/">css</a>&emsp;
+                        
+                        <a href="https://simplehappylife.github.io/tags/html/">html</a>&emsp;
+                        
+                        <a href="https://simplehappylife.github.io/tags/markdown/">markdown</a>&emsp;
+                        
+                        <a href="https://simplehappylife.github.io/tags/themes/">themes</a>&emsp;
+                        
+                </span>
+                
+        </footer>
+        
+<table cellspacing="15" style="width:100%; border: none;">
+    <tr>
+        <td style="text-align: center; border: none; padding: 0px;">
+        </td>
+        <td style="text-align: center; border: none; padding: 0px;">
+        </td>
+    </tr>
+</table>
+
+        
+	
+	
+	<h4>Related Posts</h4>
+	<ol style="margin-left: 30px; list-style-type: decimal;">
+		
+		<li><strong><a href="/placeholder-text/">Placeholder Text</a></strong></li>
+		
+	</ol>
+	
+
+    </article>
+
+    
+    <nav class="navigation post-navigation" role="navigation">
+        <div class="nav-links">
+            <div class="nav-previous">
+                
+                <a class="previous" href="https://simplehappylife.github.io/rich-content/"> Rich Content</a>
+                
+            </div>
+            <div class="nav-next">
+                
+            </div>
+        </div>
+    </nav>
+    <section>
+        
+    </section>
+    
+
+</main>
+
+
+        <div class="sidebar1 widgets columns-1">
+
+    <aside>
+    
+</aside>
+    <aside class="widget widget_categories">
+        <h2>Categories</h2>
+        <ul class="widget__list"><li class="cat-item cat-item-2">
+                <a href="https://simplehappylife.github.io/categories/syntax/">syntax (1)</a>
+            </li><li class="cat-item cat-item-2">
+                <a href="https://simplehappylife.github.io/categories/themes/">themes (1)</a>
+            </li>
+        </ul>
+    </aside>
+
+    <aside class="widget widget_tag_cloud">
+        <h2>Tags</h2>
+        <div class="tagcloud"><a class="tag-cloud-link" href="https://simplehappylife.github.io/tags/css/" title="css" style="font-size: 12pt;">css</a>&emsp;<a class="tag-cloud-link" href="https://simplehappylife.github.io/tags/emoji/" title="emoji" style="font-size: 12pt;">emoji</a>&emsp;<a class="tag-cloud-link" href="https://simplehappylife.github.io/tags/html/" title="html" style="font-size: 12pt;">html</a>&emsp;<a class="tag-cloud-link" href="https://simplehappylife.github.io/tags/index/" title="index" style="font-size: 12pt;">index</a>&emsp;<a class="tag-cloud-link" href="https://simplehappylife.github.io/tags/markdown/" title="markdown" style="font-size: 12pt;">markdown</a>&emsp;<a class="tag-cloud-link" href="https://simplehappylife.github.io/tags/privacy/" title="privacy" style="font-size: 12pt;">privacy</a>&emsp;<a class="tag-cloud-link" href="https://simplehappylife.github.io/tags/shortcodes/" title="shortcodes" style="font-size: 12pt;">shortcodes</a>&emsp;<a class="tag-cloud-link" href="https://simplehappylife.github.io/tags/text/" title="text" style="font-size: 12pt;">text</a>&emsp;<a class="tag-cloud-link" href="https://simplehappylife.github.io/tags/themes/" title="themes" style="font-size: 12pt;">themes</a>&emsp;
+        </div>
+    </aside>
+
+    <aside class="widget widget_recent_entries">
+        <h2>Recent Posts</h2>
+        <ul>
+            <li>
+                <a href="/markdown-syntax-guide/">Markdown Syntax Guide</a>
+            </li>
+            <li>
+                <a href="/rich-content/">Rich Content</a>
+            </li>
+            <li>
+                <a href="/placeholder-text/">Placeholder Text</a>
+            </li>
+            <li>
+                <a href="/math-typesetting/">Math Typesetting</a>
+            </li>
+            <li>
+                <a href="/emoji-support/">Emoji Support</a>
+            </li>
+        </ul>
+    </aside>
+
+    <aside class="widget widget_archive">
+        <h2>Archives</h2>
+        <ul><li><a href="https://simplehappylife.github.io/archives/2019/03/">2019/03 (4)</a></li>
+        </ul>
+    </aside>
+
+</div>
+        </div>
+        </div>
+<footer role="contentinfo" class="document-footer contentinfo widgets columns-1">
+
+    <aside class="widget widget_text">
+        <div class="textwidget">
+            <p>© Simple Happy Life / Powered by <a href="https://gohugo.io" target="_blank">Hugo</a> with theme <a href="https://github.com/tosi29/inkblotty" target="_blank">Inkblotty</a></p>
+        </div>
+    </aside>
+</footer>
+</div>
+
+    </body>
+</html>

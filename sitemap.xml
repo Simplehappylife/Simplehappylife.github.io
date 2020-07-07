@@ -3,63 +3,115 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://simplehappylife.github.io/about/</loc>
-    <lastmod>2016-03-20T23:28:02+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://simplehappylife.github.io/tags/bar/</loc>
-    <lastmod>2016-03-20T12:13:19+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://simplehappylife.github.io/categories/</loc>
-    <lastmod>2016-03-20T12:13:19+08:00</lastmod>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://simplehappylife.github.io/post/first/</loc>
-    <lastmod>2016-03-20T12:13:19+08:00</lastmod>
+    <loc>https://simplehappylife.github.io/tags/css/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://simplehappylife.github.io/tags/foo/</loc>
-    <lastmod>2016-03-20T12:13:19+08:00</lastmod>
+    <loc>https://simplehappylife.github.io/tags/html/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://simplehappylife.github.io/tags/markdown/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://simplehappylife.github.io/markdown-syntax-guide/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://simplehappylife.github.io/post/</loc>
-    <lastmod>2016-03-20T12:13:19+08:00</lastmod>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://simplehappylife.github.io/</loc>
-    <lastmod>2016-03-20T12:13:19+08:00</lastmod>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://simplehappylife.github.io/categories/syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://simplehappylife.github.io/tags/</loc>
-    <lastmod>2016-03-20T12:13:19+08:00</lastmod>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://simplehappylife.github.io/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/</loc>
-    <lastmod>2016-03-20T12:13:19+08:00</lastmod>
+    <loc>https://simplehappylife.github.io/tags/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://simplehappylife.github.io/post/hello-hugo/</loc>
-    <lastmod>2016-02-20T15:34:05+08:00</lastmod>
+    <loc>https://simplehappylife.github.io/categories/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://simplehappylife.github.io/tags/test/</loc>
-    <lastmod>2016-02-20T15:34:05+08:00</lastmod>
+    <loc>https://simplehappylife.github.io/tags/privacy/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://simplehappylife.github.io/categories/%E6%80%9D%E8%80%83%E6%84%9F%E6%82%9F/</loc>
-    <lastmod>2016-02-20T15:34:05+08:00</lastmod>
+    <loc>https://simplehappylife.github.io/rich-content/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://simplehappylife.github.io/tags/shortcodes/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://simplehappylife.github.io/placeholder-text/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://simplehappylife.github.io/tags/text/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://simplehappylife.github.io/math-typesetting/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://simplehappylife.github.io/tags/emoji/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://simplehappylife.github.io/emoji-support/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://simplehappylife.github.io/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://simplehappylife.github.io/archives/2019/03/</loc>
+  </url>
+  
+  <url>
+    <loc>https://simplehappylife.github.io/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>https://simplehappylife.github.io/tags/index/</loc>
   </url>
   
 </urlset>
