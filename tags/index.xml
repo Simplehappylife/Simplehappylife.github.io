@@ -6,98 +6,89 @@
     <description>Recent content in Tags on ~國考補給站~</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 05 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://simplehappylife.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>國考</title>
-      <link>https://simplehappylife.github.io/tags/%E5%9C%8B%E8%80%83/</link>
-      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      <title>Basic Elements</title>
+      <link>https://simplehappylife.github.io/tags/basic-elements/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://simplehappylife.github.io/tags/%E5%9C%8B%E8%80%83/</guid>
+      <guid>https://simplehappylife.github.io/tags/basic-elements/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>css</title>
+      <title>CSS</title>
       <link>https://simplehappylife.github.io/tags/css/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://simplehappylife.github.io/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>html</title>
+      <title>HTML</title>
       <link>https://simplehappylife.github.io/tags/html/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://simplehappylife.github.io/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>markdown</title>
-      <link>https://simplehappylife.github.io/tags/markdown/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>development</title>
+      <link>https://simplehappylife.github.io/tags/development/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://simplehappylife.github.io/tags/markdown/</guid>
+      <guid>https://simplehappylife.github.io/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>https://simplehappylife.github.io/tags/go/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://simplehappylife.github.io/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>https://simplehappylife.github.io/tags/golang/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://simplehappylife.github.io/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://simplehappylife.github.io/tags/hugo/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://simplehappylife.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>templates</title>
+      <link>https://simplehappylife.github.io/tags/templates/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://simplehappylife.github.io/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
       <link>https://simplehappylife.github.io/tags/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://simplehappylife.github.io/tags/themes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>privacy</title>
-      <link>https://simplehappylife.github.io/tags/privacy/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://simplehappylife.github.io/tags/privacy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>shortcodes</title>
-      <link>https://simplehappylife.github.io/tags/shortcodes/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://simplehappylife.github.io/tags/shortcodes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>text</title>
-      <link>https://simplehappylife.github.io/tags/text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://simplehappylife.github.io/tags/text/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>emoji</title>
-      <link>https://simplehappylife.github.io/tags/emoji/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://simplehappylife.github.io/tags/emoji/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>index</title>
-      <link>https://simplehappylife.github.io/tags/index/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://simplehappylife.github.io/tags/index/</guid>
       <description></description>
     </item>
     

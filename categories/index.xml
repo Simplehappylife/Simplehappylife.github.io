@@ -6,35 +6,26 @@
     <description>Recent content in Categories on ~國考補給站~</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 05 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://simplehappylife.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>國考攻略手冊</title>
-      <link>https://simplehappylife.github.io/categories/%E5%9C%8B%E8%80%83%E6%94%BB%E7%95%A5%E6%89%8B%E5%86%8A/</link>
-      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      <title>Development</title>
+      <link>https://simplehappylife.github.io/categories/development/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://simplehappylife.github.io/categories/%E5%9C%8B%E8%80%83%E6%94%BB%E7%95%A5%E6%89%8B%E5%86%8A/</guid>
+      <guid>https://simplehappylife.github.io/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>syntax</title>
-      <link>https://simplehappylife.github.io/categories/syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>golang</title>
+      <link>https://simplehappylife.github.io/categories/golang/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://simplehappylife.github.io/categories/syntax/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>https://simplehappylife.github.io/categories/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://simplehappylife.github.io/categories/themes/</guid>
+      <guid>https://simplehappylife.github.io/categories/golang/</guid>
       <description></description>
     </item>
     
