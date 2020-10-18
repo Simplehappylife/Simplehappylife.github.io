@@ -6,10 +6,38 @@
     <description>Recent content on 國考補給站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://simplehappylife.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2.4-共同科目準備方式</title>
+      <link>https://simplehappylife.github.io/post/2.4-%E5%85%B1%E5%90%8C%E7%A7%91%E7%9B%AE%E6%BA%96%E5%82%99%E6%96%B9%E5%BC%8F/</link>
+      <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://simplehappylife.github.io/post/2.4-%E5%85%B1%E5%90%8C%E7%A7%91%E7%9B%AE%E6%BA%96%E5%82%99%E6%96%B9%E5%BC%8F/</guid>
+      <description>&lt;p&gt;前言:&lt;/br&gt;
+因為每種考試類型共同科目(國文、英文、法緒等)，成績所占&lt;strong&gt;&lt;font color=&#34;#dd0000&#34;&gt;比重皆不相同&lt;/font&gt;&lt;/strong&gt;，像高考共同科目占20%、普考共同科目占33.4%。因比重不同，準備起來的&lt;strong&gt;&lt;font color=&#34;#dd0000&#34;&gt;方式&lt;/font&gt;&lt;/strong&gt;及&lt;strong&gt;&lt;font color=&#34;#dd0000&#34;&gt;策略也會不一樣&lt;/font&gt;&lt;/strong&gt;，這邊提供大方向給大家參考，下表是常見考試共同科目所占比重整理。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2.3-做考古題的時間和方式</title>
+      <link>https://simplehappylife.github.io/post/2.3-%E5%81%9A%E8%80%83%E5%8F%A4%E9%A1%8C%E7%9A%84%E6%99%82%E9%96%93%E5%92%8C%E6%96%B9%E5%BC%8F/</link>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://simplehappylife.github.io/post/2.3-%E5%81%9A%E8%80%83%E5%8F%A4%E9%A1%8C%E7%9A%84%E6%99%82%E9%96%93%E5%92%8C%E6%96%B9%E5%BC%8F/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://simplehappylife.github.io/images/2_3.jpg&#34; alt=&#34;strategy&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>1.1-為何要考國考？</title>
+      <link>https://simplehappylife.github.io/post/1.1-%E7%82%BA%E4%BD%95%E8%A6%81%E8%80%83%E5%9C%8B%E8%80%83/</link>
+      <pubDate>Sat, 05 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://simplehappylife.github.io/post/1.1-%E7%82%BA%E4%BD%95%E8%A6%81%E8%80%83%E5%9C%8B%E8%80%83/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://simplehappylife.github.io/images/1_1.jpg&#34; alt=&#34;strategy&#34;&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>0.(必讀)最重要且首要的事</title>
@@ -26,7 +54,7 @@
       <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://simplehappylife.github.io/post/2.2-%E5%9C%8B%E8%80%83%E8%AE%80%E6%9B%B8%E6%96%B9%E6%B3%95%E5%8F%8A%E7%AD%96%E7%95%A5-%E4%B8%8B/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://simplehappylife.github.io/images/2.2.png&#34; alt=&#34;strategy&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://simplehappylife.github.io/images/2_2.png&#34; alt=&#34;strategy&#34;&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -49,25 +77,6 @@
     </item>
     
     <item>
-      <title>Basic HTML Elements</title>
-      <link>https://simplehappylife.github.io/post/basic-elements/</link>
-      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://simplehappylife.github.io/post/basic-elements/</guid>
-      <description>&lt;p&gt;The main purpose of this article is to make sure that all basic HTML Elements are decorated with CSS so as to not miss any possible elements when creating new themes for Hugo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Creating a New Theme</title>
-      <link>https://simplehappylife.github.io/post/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://simplehappylife.github.io/post/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
       <title>About Hugo</title>
       <link>https://simplehappylife.github.io/exabout/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
@@ -78,45 +87,6 @@ It makes use of a variety of open source projects including:
  Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
 Setup Some fun facts about Hugo:
  Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
-    </item>
-    
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>https://simplehappylife.github.io/post/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://simplehappylife.github.io/post/goisforlovers/</guid>
-      <description>&lt;p&gt;Hugo uses the excellent &lt;a href=&#34;https://golang.org/&#34;&gt;Go&lt;/a&gt; &lt;a href=&#34;https://golang.org/pkg/html/template/&#34;&gt;html/template&lt;/a&gt; library for
-its template engine. It is an extremely lightweight engine that provides a very
-small amount of logic. In our experience that it is just the right amount of
-logic to be able to create a good static website. If you have used other
-template systems from different languages or frameworks you will find a lot of
-similarities in Go templates.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>https://simplehappylife.github.io/post/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://simplehappylife.github.io/post/hugoisforlovers/</guid>
-      <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at Install Hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the Hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
-    </item>
-    
-    <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>https://simplehappylife.github.io/post/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://simplehappylife.github.io/post/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
     </item>
     
   </channel>
