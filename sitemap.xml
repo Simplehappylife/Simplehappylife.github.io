@@ -3,27 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://simplehappylife.github.io/post/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/</loc>
+    <lastmod>2021-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://simplehappylife.github.io/categories/</loc>
-    <lastmod>2021-04-21T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://simplehappylife.github.io/post/</loc>
-    <lastmod>2021-04-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://simplehappylife.github.io/tags/</loc>
-    <lastmod>2021-04-21T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://simplehappylife.github.io/categories/%E5%9C%8B%E8%80%83%E6%94%BB%E7%95%A5%E6%89%8B%E5%86%8A/</loc>
-    <lastmod>2021-04-21T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://simplehappylife.github.io/</loc>
+    <lastmod>2021-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://simplehappylife.github.io/tags/</loc>
     <lastmod>2021-04-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -89,11 +94,6 @@
   
   <url>
     <loc>https://simplehappylife.github.io/0.%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/</loc>
-    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://simplehappylife.github.io/post/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/</loc>
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>
   </url>
   
